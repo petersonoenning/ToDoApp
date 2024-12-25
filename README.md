@@ -1,4 +1,4 @@
-# To-Do List App com React Native
+# To-Do-App com React Native
 
 Este é um aplicativo de lista de tarefas (To-Do List) desenvolvido com React Native. O app permite ao usuário adicionar, marcar como concluída, excluir e persistir tarefas localmente, utilizando a Context API, Hooks e AsyncStorage.
 
@@ -25,12 +25,12 @@ Este é um aplicativo de lista de tarefas (To-Do List) desenvolvido com React Na
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/todolist-app.git
+    git clone https://github.com/petersonoenning/ToDoApp.git
     ```
 
 2. Navegue até a pasta do projeto:
     ```bash
-    cd todolist-app
+    cd ToDoApp
     ```
 
 3. Instale as dependências:
@@ -54,4 +54,3 @@ Este é um aplicativo de lista de tarefas (To-Do List) desenvolvido com React Na
 - Context API
 - AsyncStorage
 - React Native Reanimated (para animações)
-
