@@ -1,6 +1,6 @@
 import React from "react";
-import { TodoProvider } from "./contexts/TodoContext.js";
-import MainScreen from "./components/MainScreen.js";
+import { TodoProvider } from "./contexts/TodoContext.jsx";
+import MainScreen from "./components/MainScreen.jsx";
 
 export default function App() {
   return (
